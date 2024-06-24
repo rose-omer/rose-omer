@@ -1,4 +1,4 @@
- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFBxKYEAauUfQ/profile-displaybackgroundimage-shrink_350_1400/0/1716384585708?e=1724889600&v=beta&t=ekDfs_aDhfLkPhMguRlhhM1Qmh53W9nxIr0u9Pf6iho)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFBxKYEAauUfQ/profile-displaybackgroundimage-shrink_350_1400/0/1716384585708?e=1724889600&v=beta&t=ekDfs_aDhfLkPhMguRlhhM1Qmh53W9nxIr0u9Pf6iho)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate Java Developer from Türkiye</h3>
 
@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rose-omer&" alt="rose-omer" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rose-omer/rose-omer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rose-omer/rose-omer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rose-omer/rose-omer/output/github-contribution-grid-snake.svg">
 </picture>
