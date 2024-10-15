@@ -1,5 +1,3 @@
- ![MasterHead](https://github.com/user-attachments/assets/a242f351-7b67-4b1e-8616-9d5adccb1ef5)
-
 ![](https://komarev.com/ghpvc/?username=rose-omer&color=blue)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate Java Developer from Türkiye</h3>
