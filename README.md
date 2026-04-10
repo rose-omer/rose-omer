@@ -21,14 +21,5 @@ Currently working at **İYEX Teknoloji** on industrial object detection and Digi
 * **[Facial Emotion Recognition](https://github.com/rose-omer/Facial-Emotion-Recognition):** DeepFace ve Flask ile gerçek zamanlı 7 farklı duygu sınıflandırması.
 * **[Skin Cancer Classification](https://github.com/rose-omer/skin-cancer-dl):** TensorFlow/Keras ile dermoskopik görüntülerden tıbbi teşhis sistemi.
 
----
-
-### 📊 My GitHub Journey
-
-![Ömer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rose-omer&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rose-omer&layout=compact&theme=tokyonight)
-
----
-
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerkose38/) [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://omerksoft.com.tr/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@koseomer)
