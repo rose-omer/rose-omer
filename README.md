@@ -17,9 +17,9 @@ Currently working at **İYEX Teknoloji** on industrial object detection and Digi
 
 ### 🌟 Featured Projects
 
-* **[Gören Göz](https://github.com/rose-omer/goren-goz):** YOLO tabanlı, görme engelliler için sesli asistan desteği sunan mobil erişilebilirlik uygulaması.
-* **[Facial Emotion Recognition](https://github.com/rose-omer/Facial-Emotion-Recognition):** DeepFace ve Flask ile gerçek zamanlı 7 farklı duygu sınıflandırması.
-* **[Skin Cancer Classification](https://github.com/rose-omer/skin-cancer-dl):** TensorFlow/Keras ile dermoskopik görüntülerden tıbbi teşhis sistemi.
+* **[Gören Göz](https://github.com/rose-omer/goren_goz_mobil.app):** YOLO tabanlı, görme engelliler için sesli asistan desteği sunan mobil erişilebilirlik uygulaması.
+* **[Stajyer-asistani](https://github.com/rose-omer/stajyer-asistani):** Staj arama sürecini otomatize eden, yapay zeka destekli bir web uygulamasıdır.
+* **[Skin Cancer Classification](https://github.com/rose-omer/Skin-Cancer-Classification):** TensorFlow/Keras ile dermoskopik görüntülerden tıbbi teşhis sistemi.
 
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerkose38/) [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://omerksoft.com.tr/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@koseomer)
