@@ -1,25 +1,34 @@
-# Hi there, I'm Ömer Faruk Köse 👋
+# Ömer Faruk Köse
 
-### 🚀 Software Engineer | AI & Computer Vision Specialist
-Currently working at **İYEX Teknoloji** on industrial object detection and Digital Twin projects.
+Kayseriliyim. Ankara'da, İyex Teknoloji'de yapay zekâ ve görüntü işleme mühendisiyim.
 
----
+Model eğitmek işin yarısı. Beni asıl uğraştıran öteki yarısı: o model bir fabrikada, bir kamerada, internetsiz bir ağda aylarca düşmeden çalışsın.
 
-### 🛠 Tech Stack
+## Şu an üzerinde çalıştıklarım
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI & Computer Vision** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![DeepFace](https://img.shields.io/badge/DeepFace-FF0000?style=flat) |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
-| **Backend & DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+**IyexVMS**: Güvenlik kameralarını YOLO ile izleyen, kapalı ağda çalışan video yönetim sistemi. 3 sahada çalışıyor. Hangi modelin hangi bölgede, hangi saatte çalışacağını seçen kural motorunu ben yazdım. Her kamera kendi sürecinde çalışıyor; biri çökerse kendini yeniden başlatıyor.
 
----
+**Lastiksayar**: Günde yaklaşık 1.200 lastiğin yanağındaki marka, ebat ve DOT yazısını okuyup etiketliyor. Birkaç OCR motorunu birleştirip okuma doğruluğunu %94–96'ya çıkardım. Yazı bulma modelini TensorRT ile hızlandırdım; okuma süresi yaklaşık 2,2 kat kısaldı. Siemens S7 PLC, etiket yazıcısı ve QR okuyucu sürücüleri de bana ait.
 
-### 🌟 Featured Projects
+## Kendi projelerim
 
-* **[Gören Göz](https://github.com/rose-omer/goren_goz_mobil.app):** YOLO tabanlı, görme engelliler için sesli asistan desteği sunan mobil erişilebilirlik uygulaması.
-* **[Stajyer-asistani](https://github.com/rose-omer/stajyer-asistani):** Staj arama sürecini otomatikleştiren, yapay zekâ destekli web uygulaması.
-* **[Skin Cancer Classification](https://github.com/rose-omer/Skin-Cancer-Classification):** TensorFlow/Keras ile dermoskopik görüntülerden tıbbi teşhis sistemi.
+- [**Gören Göz**](https://github.com/rose-omer/goren_goz_mobil.app): Görme engelliler için mobil asistan. Kamera önü izliyor; engeli sesle, titreşimle ve kısa bir Türkçe cümleyle haber veriyor. Bastonun yerini tutmaz, yanına eşlik eder.
+- **Biz İkimiz**: Sevgilimle ikimiz için yazdığım uygulama. Gün sayacı, sohbet, anılar, mektuplar, birlikte baktığımız sanal bir yavru ve 19 oyun.
+- [**Sketch-to-Code**](https://github.com/rose-omer/Sketch-to-Code-AI): Kâğıda çizilmiş sayfa taslağını fotoğraftan HTML'e çeviriyor.
+- [**SpamMailD**](https://github.com/rose-omer/Spam-Mail-Detection): Bir e-postaya 0–100 risk skoru veriyor ve nedenini söylüyor.
+- [**Stajyer Asistanı**](https://github.com/rose-omer/stajyer-asistani): Staj arayan öğrenci için şirket bulup başvuru maili hazırlıyor. Hiçbir mail sen onaylamadan gitmiyor.
 
-### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerkose38/) [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://omerksoft.com.tr/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@koseomer)
+## Buraya nasıl geldim
+
+- 2022–2026: Mehmet Akif Ersoy Üniversitesi, Yazılım Mühendisliği.
+- Okurken iki yıl Gini Talent'ta yarı zamanlı, arama motoru sonuçlarının kalitesini değerlendirdim.
+- 2025 yazı: Kayseri'de Emar Proje'de staj. CRM paneli ve spam tespiti yazdım.
+- Şubat 2026: İyex Teknoloji'ye stajyer olarak girdim. Haziran 2026'da mühendis olarak kaldım.
+
+## Elimin altındakiler
+
+Python, PyTorch, YOLO, OpenCV, TensorRT, FastAPI, PostgreSQL, React, Docker, Linux.
+
+## Ulaşmak için
+
+[LinkedIn](https://www.linkedin.com/in/omerkose38/) · [omerksoft.com.tr](https://omerksoft.com.tr/) · [Medium](https://medium.com/@koseomer)
