@@ -23,6 +23,7 @@ Model eğitmek işin yarısı. Beni asıl uğraştıran öteki yarısı: o model
 - 2022–2026: Mehmet Akif Ersoy Üniversitesi, Yazılım Mühendisliği.
 - Okurken iki yıl Gini Talent'ta yarı zamanlı, arama motoru sonuçlarının kalitesini değerlendirdim.
 - 2025 yazı: Kayseri'de Emar Proje'de staj. CRM paneli ve spam tespiti yazdım.
+- Eylül–Ekim 2025: SeaSoftw'da proje bazlı çalıştım. arikogluyapi.com'un arayüzünü tasarladım, yayına aldım ve SEO'sunu yaptım.
 - Şubat 2026: İyex Teknoloji'ye stajyer olarak girdim. Haziran 2026'da mühendis olarak kaldım.
 
 ## Elimin altındakiler
