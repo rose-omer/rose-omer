@@ -13,7 +13,7 @@ Model eğitmek işin yarısı. Beni asıl uğraştıran öteki yarısı: o model
 ## Kendi projelerim
 
 - [**Gören Göz**](https://github.com/rose-omer/goren_goz_mobil.app): Görme engelliler için mobil asistan. Kamera önü izliyor; engeli sesle, titreşimle ve kısa bir Türkçe cümleyle haber veriyor. Bastonun yerini tutmaz, yanına eşlik eder.
-- **Biz İkimiz**: Sevgilimle ikimiz için yazdığım uygulama. Gün sayacı, sohbet, anılar, mektuplar, birlikte baktığımız sanal bir yavru ve 19 oyun.
+- [**Biz İkimiz**](https://github.com/rose-omer/bizim-oyunlar): Sevgilimle ikimiz için yazdığım uygulama. Gün sayacı, sohbet, anılar, mektuplar, birlikte baktığımız sanal bir yavru ve 19 oyun.
 - [**Sketch-to-Code**](https://github.com/rose-omer/Sketch-to-Code-AI): Kâğıda çizilmiş sayfa taslağını fotoğraftan HTML'e çeviriyor.
 - [**SpamMailD**](https://github.com/rose-omer/Spam-Mail-Detection): Bir e-postaya 0–100 risk skoru veriyor ve nedenini söylüyor.
 - [**Stajyer Asistanı**](https://github.com/rose-omer/stajyer-asistani): Staj arayan öğrenci için şirket bulup başvuru maili hazırlıyor. Hiçbir mail sen onaylamadan gitmiyor.
