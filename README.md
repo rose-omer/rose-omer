@@ -32,3 +32,8 @@ Python, PyTorch, YOLO, OpenCV, TensorRT, FastAPI, PostgreSQL, React, Docker, Lin
 ## Ulaşmak için
 
 [LinkedIn](https://www.linkedin.com/in/omerkose38/) · [omerksoft.com.tr](https://omerksoft.com.tr/) · [Medium](https://medium.com/@koseomer)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rose-omer/rose-omer/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Katkı grafiğimin üzerinde dolaşan yılan" src="https://raw.githubusercontent.com/rose-omer/rose-omer/output/github-contribution-grid-snake.svg">
+</picture>
