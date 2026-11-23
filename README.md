@@ -18,7 +18,7 @@ Currently working at **İYEX Teknoloji** on industrial object detection and Digi
 ### 🌟 Featured Projects
 
 * **[Gören Göz](https://github.com/rose-omer/goren_goz_mobil.app):** YOLO tabanlı, görme engelliler için sesli asistan desteği sunan mobil erişilebilirlik uygulaması.
-* **[Stajyer-asistani](https://github.com/rose-omer/stajyer-asistani):** Staj arama sürecini otomatize eden, yapay zeka destekli bir web uygulamasıdır.
+* **[Stajyer-asistani](https://github.com/rose-omer/stajyer-asistani):** Staj arama sürecini otomatikleştiren, yapay zekâ destekli web uygulaması.
 * **[Skin Cancer Classification](https://github.com/rose-omer/Skin-Cancer-Classification):** TensorFlow/Keras ile dermoskopik görüntülerden tıbbi teşhis sistemi.
 
 ### 🔗 Let's Connect
