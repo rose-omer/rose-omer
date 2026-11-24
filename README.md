@@ -13,6 +13,8 @@ Model eğitmek işin yarısı. Beni asıl uğraştıran öteki yarısı: o model
 ## Kendi projelerim
 
 - [**Gören Göz**](https://github.com/rose-omer/goren_goz_mobil.app): Görme engelliler için mobil asistan. Kamera önü izliyor; engeli sesle, titreşimle ve kısa bir Türkçe cümleyle haber veriyor. Bastonun yerini tutmaz, yanına eşlik eder.
+- [**Kendin Yap**](https://github.com/rose-omer/kendin-yap): ESP32 ve Arduino ile fikirden çalışan devreye adım adım götüren yerel site. Kabloları gerçek pinlerle gösteren şema, tarayıcıda Uno ve ESP32 simülasyonu (Wi-Fi, MQTT, Bluetooth), mağaza fiyat karşılaştırması.
+- [**cs-klip**](https://github.com/rose-omer/cs-clip): CS2 demolarından en iyi anları bulup puanlıyor ve oyunun içinde otomatik klip olarak kaydediyor. Yanında Leetify benzeri yerel maç analizi var.
 - [**Biz İkimiz**](https://github.com/rose-omer/bizim-oyunlar): Sevgilimle ikimiz için yazdığım uygulama. Gün sayacı, sohbet, anılar, mektuplar, birlikte baktığımız sanal bir yavru ve 19 oyun.
 - [**Sketch-to-Code**](https://github.com/rose-omer/Sketch-to-Code-AI): Kâğıda çizilmiş sayfa taslağını fotoğraftan HTML'e çeviriyor.
 - [**SpamMailD**](https://github.com/rose-omer/Spam-Mail-Detection): Bir e-postaya 0–100 risk skoru veriyor ve nedenini söylüyor.
